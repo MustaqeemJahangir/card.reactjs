@@ -1,0 +1,58 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.hello{
+  color: aqua;
+}
+.mian-headier{
+  border-radius: 10px;
+  border: 2px solid gray;
+  width: 410px;
+
+}
+.fa{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.mian-headier>img{
+  /* border: 1px solid blue; */
+  width: 410px;
+  height: 240px;
+
+  /* padding: 0px 10px; */
+
+}
+.mian-headier>h2{
+  padding: 5px 20px ;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:rgb(53, 48, 48);
+  text-transform: capitalize;
+
+}
+
+.mian-headier>h4{
+  padding: 7px 20px ;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  /* color: blue; */
+  color:rgb(53, 48, 48);
+
+  text-transform: capitalize;
+  
+}
+
+
+.mian-headier>h5{
+  padding: 4px 20px ;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  /* color: blue; */
+  color:rgb(53, 48, 48);
+
+  text-transform: capitalize;
+  
+}
