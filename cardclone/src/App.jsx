@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     
-     <div className='fa'>
+     <div className='ham'>
      <Card image={'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj77hHItr8yVRuLbm6M_aakc87iWdB5Y-Tg&s'} title={'honda civic'}
       description={'best module in honda history and easy,smooth to drive and provid best experience for driver'} time={' 13 hours ago'}
       location={'bahadorab karachi, pakistan'}/>
